@@ -216,6 +216,6 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
-  <final Name>sample.jar</final Name>
+  
 
 </project>
